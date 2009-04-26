@@ -44,7 +44,7 @@ gems:
 
   - name: 'mislav-will_paginate'
     require_name: 'will_paginate'
-    version: '2.3.6'
+    version: '2.3.8'
     load: true
     source: 'http://gems.github.com'
 
